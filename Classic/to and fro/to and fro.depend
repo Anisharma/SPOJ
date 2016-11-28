@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1452454344 source:e:\studies\computer science\projects\c\spoj\to and fro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

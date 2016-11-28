@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1452567925 source:e:\studies\computer science\projects\c\spoj\just learning\main.c
+	<stdio.h>
+	<stdlib.h>
+

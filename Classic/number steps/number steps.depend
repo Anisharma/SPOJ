@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1452416803 source:e:\studies\computer science\projects\c\spoj\number steps\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

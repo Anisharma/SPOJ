@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453532916 source:e:\studies\computer science\projects\c\spoj\power of 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
